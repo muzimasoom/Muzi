@@ -405,7 +405,7 @@ __________________Muzammil Masoom______________________
 
   Facebook : Muzammil Hussain 
   
-  Haters : J4ST F33L TH3 POW3R OFF MUZ1
+  Haters : J4ST F33L TH3 POW3R OFF MUZI 
   
 __________________Muzammil Masoom______________________\033[1;37m""")
 
